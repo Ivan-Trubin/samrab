@@ -8,15 +8,15 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                    <p class="animate-text-1">Персональный сайт,</p>
-                    <p class="text-2">Андрея Кузнецова</p>
+                    <p class="animate-text-1">Что такое Node.js</p>
+                    
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                    Node.js — это среда выполнения кода JavaScript вне браузера, которая позволяет писать серверный код для веб-страниц и веб-приложений, а также для программ командной строки.
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">Узнать обо мне</a><div class="arrow">→</div>
+                    <a href="/about">Узнать об node js</a><div class="arrow">→</div>
                 </div>
             </div>
         </div>
