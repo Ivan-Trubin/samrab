@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Имя Фамилия</title>
+    <title>Info node js</title>
 </svelte:head>
 
 <div class="container">
