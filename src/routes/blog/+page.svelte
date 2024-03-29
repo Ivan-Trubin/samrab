@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Блог</title>
+	<title>Применение</title>
 </svelte:head>
 <div class="container">
 	<h1>Где используется Node.js</h1>
