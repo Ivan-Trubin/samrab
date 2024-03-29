@@ -3,7 +3,7 @@
 </svelte:head>
 
 <div class='container'>
-	<h1>Он нужен, к примеру, для создания таких проектов </h1>
+	<h1>Он нужен, к примеру, для создания такого проекта </h1>
 	<div class='apps'>
 		{#each routes as page}
 			<div class='app'>
